@@ -1,0 +1,22 @@
+
+2. OBJECTS AND ITS INTERNAL REPRESENTATION IN JAVASCRIPT
+
+In JavaScript almost everything is an "OBJECT". Object is an type of non-primitive data type in JavaScript which is used to represent instance through which 
+we can access members.
+
+In simple terms, A JavaScript object is a collection of named values having state and behaviour.
+
+The name:value pairs represent the properties of an object. For example, if we consider an object Apple, we have its properties like:
+
+    1. Type: Fruit
+    2. Outer Colour: Red
+    3. Inner Colour: White
+    4. Taste: Sweet             etc.....
+
+An object method is an object property containing a function definition.
+
+The syntax for adding a property to an object is :
+
+            ObjectName.ObjectProperty = propertyValue;
+
+The object properties can be different primitive values, other objects and functions.
